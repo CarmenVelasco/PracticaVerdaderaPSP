@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+
+<AppConfig>
+
+    <!-- Configuración de base de datos -->
+    <DatabaseUser>hibernate</DatabaseUser>
+    <DatabasePass>1234</DatabasePass>
+    <URL>jdbc:mysql://localhost:3306/bdsupermercado?serverTimezone=UTC</URL>
+
+
+    <!-- Configuración de mail -->
+    <MailConfigFrom>email@iesplabopicasso.es</MailConfigFrom>
+    <EmailEmergencia>LaQueSeHaLiado@SOS.com</EmailEmergencia>
+
+    <MailConfigUser>690c1d3bd8c81b</MailConfigUser>
+    <MailConfigPass>d63d724f750d00</MailConfigPass>
+
+</AppConfig>
